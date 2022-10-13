@@ -1,5 +1,6 @@
 import pygame
 
+
 # Will hold the behavior of the ship
 
 class Ship:
